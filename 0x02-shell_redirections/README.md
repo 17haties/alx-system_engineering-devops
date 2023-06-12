@@ -11,4 +11,5 @@ duplicate last line
 no more javascript
 count directories
 newest files
-unique    
+unique
+in the file    
