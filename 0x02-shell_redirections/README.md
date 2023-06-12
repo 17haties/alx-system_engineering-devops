@@ -12,4 +12,5 @@ no more javascript
 count directories
 newest files
 unique
-in the file    
+in the file
+count that word    
