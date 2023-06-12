@@ -14,4 +14,5 @@ newest files
 unique
 in the file
 count that word
-what is next    
+what is next
+does not contain the pattern 'bin'    
