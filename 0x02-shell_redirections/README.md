@@ -10,4 +10,5 @@ save curret state of directory
 duplicate last line
 no more javascript
 count directories
-newest files    
+newest files
+unique    
