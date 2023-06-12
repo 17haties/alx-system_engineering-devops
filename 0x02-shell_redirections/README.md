@@ -2,4 +2,5 @@ prints Hello,World
 displays confused smile
 display a file
 what about two files
-last line of a file  
+last line of a file
+first ten lines  
