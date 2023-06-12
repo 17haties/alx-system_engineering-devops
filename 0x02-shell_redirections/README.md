@@ -8,4 +8,5 @@ third line of a file
 creates a file ending with a new line
 save curret state of directory
 duplicate last line
-no more javascript    
+no more javascript
+count directories    
