@@ -6,4 +6,5 @@ last line of a file
 first ten lines
 third line of a file
 creates a file ending with a new line
-save curret state of directory   
+save curret state of directory
+duplicate last line    
