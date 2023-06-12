@@ -16,4 +16,5 @@ in the file
 count that word
 what is next
 does not contain the pattern 'bin'
-letters only    
+letters only
+A to Z    
