@@ -3,3 +3,4 @@ Hello you
 path
 counts directories in PATH
 lists environmental variables
+lists environmental,local variables and functions
