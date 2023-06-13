@@ -15,3 +15,4 @@ floats
 decimals
 encoding and decoding
 add and print result
+prints every line
