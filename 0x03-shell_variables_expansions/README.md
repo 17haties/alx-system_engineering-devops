@@ -11,3 +11,4 @@ creates a new global variable
 10-love exponent breath
 binary
 combinations
+floats
