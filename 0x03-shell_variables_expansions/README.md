@@ -12,3 +12,4 @@ creates a new global variable
 binary
 combinations
 floats
+decimals
