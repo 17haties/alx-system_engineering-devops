@@ -4,3 +4,4 @@ path
 counts directories in PATH
 lists environmental variables
 lists environmental,local variables and functions
+ creates a new local variable
