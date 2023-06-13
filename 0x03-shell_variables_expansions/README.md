@@ -7,3 +7,4 @@ lists environmental,local variables and functions
  creates a new local variable
 creates a new global variable
 8-true knowledge
+9-divide and rule
