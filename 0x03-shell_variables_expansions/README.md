@@ -8,3 +8,4 @@ lists environmental,local variables and functions
 creates a new global variable
 8-true knowledge
 9-divide and rule
+10-love exponent breath
