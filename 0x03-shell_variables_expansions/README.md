@@ -14,3 +14,4 @@ combinations
 floats
 decimals
 encoding and decoding
+add and print result
